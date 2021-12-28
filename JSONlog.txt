@@ -1,0 +1,16 @@
+MerchantAddress: 9586 Destiny USA Drive Syracuse, NY. 13290
+MerchantName: Destiny
+ReceiptType: Itemized
+Subtotal: 31.5
+Tax: 0.0
+Total: 31.5
+TransactionDate: 2021-11-07
+TransactionTime: 12:07:00
+MerchantAddress: 9586 Destiny USA Drive Syracuse, NY. 13290
+MerchantName: Destiny
+ReceiptType: Itemized
+Subtotal: 31.5
+Tax: 0.0
+Total: 31.5
+TransactionDate: 2021-11-07
+TransactionTime: 12:07:00
